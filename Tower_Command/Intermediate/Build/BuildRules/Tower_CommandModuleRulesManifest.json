@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\PAM2\\TOWER_COMMAND\\Tower_Command\\Source\\Tower_Command\\Tower_Command.Build.cs",
+		"D:\\PAM2\\TOWER_COMMAND\\Tower_Command\\Source\\Tower_Command.Target.cs",
+		"D:\\PAM2\\TOWER_COMMAND\\Tower_Command\\Source\\Tower_CommandEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

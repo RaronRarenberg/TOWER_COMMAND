@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tower_Command",
+			"Path": "D:\\PAM2\\TOWER_COMMAND\\Tower_Command\\Source\\Tower_Command.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Tower_CommandEditor",
+			"Path": "D:\\PAM2\\TOWER_COMMAND\\Tower_Command\\Source\\Tower_CommandEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

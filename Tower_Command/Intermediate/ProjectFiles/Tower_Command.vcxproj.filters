@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Tower_Command.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{399BB643-E3DD-49EF-A9A6-166FDCABEBD5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tower_Command.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Tower_CommandEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7BD1DB94-1172-4F79-8FB3-F5CD4EF29048}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Tower_Command">
+      <UniqueIdentifier>{28380970-6716-41F8-ABDF-E4860B33EC91}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tower_Command\Tower_Command.Build.cs">
+      <Filter>Source\Tower_Command</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tower_Command\Tower_Command.cpp">
+      <Filter>Source\Tower_Command</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tower_Command\Tower_Command.h">
+      <Filter>Source\Tower_Command</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tower_Command\Tower_CommandCharacter.cpp">
+      <Filter>Source\Tower_Command</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tower_Command\Tower_CommandCharacter.h">
+      <Filter>Source\Tower_Command</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tower_Command\Tower_CommandGameMode.cpp">
+      <Filter>Source\Tower_Command</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tower_Command\Tower_CommandGameMode.h">
+      <Filter>Source\Tower_Command</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tower_Command\Tower_CommandPlayerController.cpp">
+      <Filter>Source\Tower_Command</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tower_Command\Tower_CommandPlayerController.h">
+      <Filter>Source\Tower_Command</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
