@@ -779,3 +779,598 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.13-08.09.51:766][324]LogContentValidation: Display: Validating Blueprint /Game/AI/Enemy.Enemy
 [2020.10.13-08.09.52:077][359]BlueprintLog: New page: Compile Enemy
 [2020.10.13-08.09.52:200][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.10.13-08.11.32:059][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyTree" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyTree.uasset" SILENT=true
+[2020.10.13-08.11.32:061][303]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/EnemyTreeA16F06294183D9E65C8F8A892074A3D6.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyTree.uasset'
+[2020.10.13-08.11.32:076][303]AssetCheck: New page: Asset Save: EnemyTree
+[2020.10.13-08.11.32:077][303]LogContentValidation: Display: Validating BehaviorTree /Game/AI/EnemyTree.EnemyTree
+[2020.10.13-08.11.38:894][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.10.13-08.11.38:938][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.10.13-08.11.38:961][104]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap66AE0C9D47EE3321D843858E5C1FF163.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.10.13-08.11.38:968][104]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.055
+[2020.10.13-08.11.38:968][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.13-08.11.39:056][104]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap_BuiltDataB1A1782443DCB39011F059B2DEB93629.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.13-08.11.39:057][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyBlackboard" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyBlackboard.uasset" SILENT=true
+[2020.10.13-08.11.39:058][104]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/EnemyBlackboard35A1267C47FD233D11DC0B8DC5B3D273.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyBlackboard.uasset'
+[2020.10.13-08.11.39:077][104]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.13-08.11.39:077][104]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.13-08.11.39:077][104]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.13-08.11.39:077][104]LogContentValidation: Display: Validating BlackboardData /Game/AI/EnemyBlackboard.EnemyBlackboard
+[2020.10.13-08.13.02:037][785]Cmd: DELETE
+[2020.10.13-08.13.02:037][785]Cmd: ACTOR DELETE
+[2020.10.13-08.13.02:043][785]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2020.10.13-08.13.02:070][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.10.13-08.13.02:074][785]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.10.13-08.13.03:107][909]Cmd: DELETE
+[2020.10.13-08.13.03:107][909]Cmd: ACTOR DELETE
+[2020.10.13-08.13.03:131][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.13-08.13.03:132][909]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2020.10.13-08.13.33:289][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.13-08.13.33:319][482]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMapAD7B7AEC4C50D3C04D090AB0737DEA52.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.10.13-08.13.33:328][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.13-08.13.33:418][482]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap_BuiltData424A035F4BBC9482CF1DF9819E9BA09B.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.13-08.13.33:434][482]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.13-08.13.33:435][482]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.13-08.13.33:435][482]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.13-08.13.38:414][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.13-08.13.49:042][338]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.10.13-08.13.50:695][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2020.10.13-08.14.00:384][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.13-08.14.00:992][773]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.10.13-08.14.02:024][892]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.10.13-08.14.13:417][208]Cmd: ACTOR UNHIDE ALL STARTUP
+[2020.10.13-08.14.25:483][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.13-08.14.26:329][667]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.10.13-08.14.56:463][846]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.10.13-08.15.36:365][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.10.13-08.15.36:414][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.13-08.15.36:437][331]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap02590E1B4CE612828B4668A659CFD685.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.10.13-08.15.36:444][331]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.054
+[2020.10.13-08.15.36:444][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.13-08.15.36:532][331]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap_BuiltData951687E74828209A66E268BA338DB8FC.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.13-08.15.36:549][331]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.13-08.15.36:549][331]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.13-08.15.36:549][331]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.13-08.15.53:990][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.13-08.16.24:864][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.10.13-08.16.24:920][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.10.13-08.16.24:943][ 38]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMapA75930E5435600BA02A38697E4CC8B96.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.10.13-08.16.24:951][ 38]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.055
+[2020.10.13-08.16.24:951][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.13-08.16.25:041][ 38]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap_BuiltData2FD56C924E56CD4528B276BCA7B3F696.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.13-08.16.25:059][ 38]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.13-08.16.25:059][ 38]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.13-08.16.25:059][ 38]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.13-08.17.12:579][714]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.10.13-08.17.12:893][714]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/BTTask_BlueprintBase_New.
+[2020.10.13-08.17.57:343][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.10.13-08.17.57:351][339]LogMetaData: Removing '/Game/AI/BTT_EnemyMoveTo.SKEL_BTT_EnemyMoveTo_C' ref from Metadata '/Game/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.10.13-08.17.57:351][339]LogMetaData: Removing '/Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo_C' ref from Metadata '/Game/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.10.13-08.17.57:378][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_EnemyMoveTo" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset" SILENT=true
+[2020.10.13-08.17.57:380][339]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/BTT_EnemyMoveToBF3EC962422562C35E1E76B7D079F58E.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset'
+[2020.10.13-08.17.57:539][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.10.13-08.17.57:575][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.10.13-08.17.57:601][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.10.13-08.17.57:633][339]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BTT_EnemyMoveTo.
+[2020.10.13-08.17.57:642][339]AssetCheck: New page: Asset Save: BTT_EnemyMoveTo
+[2020.10.13-08.17.57:643][339]LogContentValidation: Display: Validating Blueprint /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo
+[2020.10.13-08.19.33:103][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_EnemyMoveTo" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset" SILENT=true
+[2020.10.13-08.19.33:106][440]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/BTT_EnemyMoveToD2C53FBF437A19BDE21E51BCF04CF207.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset'
+[2020.10.13-08.19.33:116][440]AssetCheck: New page: Asset Save: BTT_EnemyMoveTo
+[2020.10.13-08.19.33:116][440]LogContentValidation: Display: Validating Blueprint /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo
+[2020.10.13-08.19.46:098][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.13-08.19.46:112][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyTree" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyTree.uasset" SILENT=true
+[2020.10.13-08.19.46:114][976]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/EnemyTreeB885C25A461C555B7FF77CA2A72E6BA0.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyTree.uasset'
+[2020.10.13-08.19.46:123][976]AssetCheck: New page: Asset Save: EnemyTree
+[2020.10.13-08.19.46:123][976]LogContentValidation: Display: Validating BehaviorTree /Game/AI/EnemyTree.EnemyTree
+[2020.10.13-08.20.16:211][527]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.10.13-08.20.27:572][527]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.13-08.20.33:554][239]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/Spawner.
+[2020.10.13-08.20.35:367][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset" SILENT=true
+[2020.10.13-08.20.35:371][451]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/Spawner464901A541CDC7A56DEC01804BA37701.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset'
+[2020.10.13-08.20.35:377][451]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Spawner.
+[2020.10.13-08.20.35:386][451]AssetCheck: New page: Asset Save: Spawner
+[2020.10.13-08.20.35:386][451]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawner.Spawner
+[2020.10.13-08.21.25:256][399]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.10.13-08.21.26:952][598]LogEditorViewport: Clicking on Actor (LMB): Spawner_C (Spawner)
+[2020.10.13-08.21.30:243][985]Cmd: DELETE
+[2020.10.13-08.21.30:243][985]Cmd: ACTOR DELETE
+[2020.10.13-08.21.30:245][985]LogEditorActor: Deleted Actor: Spawner_C
+[2020.10.13-08.21.30:276][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.10.13-08.21.30:278][985]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.10.13-08.21.40:416][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Spawner.Spawner
+[2020.10.13-08.22.15:437][240]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.13-08.22.40:963][249]BlueprintLog: New page: Compile BTT_EnemyMoveTo
+[2020.10.13-08.22.40:964][249]LogBlueprint: Error: [Compiler BTT_EnemyMoveTo] The current value (0, 0, 0) of the ' Goal ' pin is invalid: 'Goal' in action 'Simple Move to Location' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.10.13-08.22.40:996][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.10.13-08.22.41:027][249]LogSlate: Took 0.001157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.13-08.22.48:150][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_EnemyMoveTo" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset" SILENT=true
+[2020.10.13-08.22.48:154][101]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/BTT_EnemyMoveTo36AC02834656E981A2285BB6CB59070F.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset'
+[2020.10.13-08.22.48:163][101]AssetCheck: New page: Asset Save: BTT_EnemyMoveTo
+[2020.10.13-08.22.48:164][101]LogContentValidation: Display: Validating Blueprint /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo
+[2020.10.13-08.24.37:803][988]BlueprintLog: New page: Compile Spawner
+[2020.10.13-08.24.37:865][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.10.13-08.25.12:922][323]BlueprintLog: New page: Compile Spawner
+[2020.10.13-08.25.12:981][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.10.13-08.25.19:425][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.10.13-08.25.19:476][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.10.13-08.25.19:504][ 72]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap561B5A014BF1303D7E07279B4B001AAC.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.10.13-08.25.19:511][ 72]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.064
+[2020.10.13-08.25.19:511][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.13-08.25.19:601][ 72]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap_BuiltData2F9E1F0F41562C119578E3A4987F33A8.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.13-08.25.19:602][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset" SILENT=true
+[2020.10.13-08.25.19:608][ 72]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/SpawnerAD10668B48562C3289DFDB968A52B372.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset'
+[2020.10.13-08.25.19:623][ 72]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.13-08.25.19:624][ 72]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.13-08.25.19:624][ 72]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.13-08.25.19:624][ 72]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawner.Spawner
+[2020.10.13-08.25.33:408][523]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-08.25.33:418][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-08.25.33:418][523]BlueprintLog: Warning: Blueprint failed to compile:  BTT_EnemyMoveTo
+[2020.10.13-08.25.33:420][523]LogCustomDialog: Dialog displayed:
+[2020.10.13-08.25.36:651][523]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.10.13-08.25.38:323][716]LogSlate: Window 'Message Log' being destroyed
+[2020.10.13-08.25.38:328][716]LogSlate: Window 'Message Log' being destroyed
+[2020.10.13-08.25.47:051][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_EnemyMoveTo" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset" SILENT=true
+[2020.10.13-08.25.47:054][704]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/BTT_EnemyMoveTo76D61F404A0AD9B6BAC00F884474B5D2.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset'
+[2020.10.13-08.25.47:064][704]AssetCheck: New page: Asset Save: BTT_EnemyMoveTo
+[2020.10.13-08.25.47:064][704]LogContentValidation: Display: Validating Blueprint /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo
+[2020.10.13-08.25.47:480][753]BlueprintLog: New page: Compile BTT_EnemyMoveTo
+[2020.10.13-08.25.47:511][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.10.13-08.25.51:394][186]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-08.25.51:401][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-08.25.51:401][186]PIE: New page: PIE session: TopDownExampleMap (13 paź 2020, 12:25:51)
+[2020.10.13-08.25.51:401][186]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.25.51:414][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012147s)
+[2020.10.13-08.25.51:415][186]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.10.13-08.25.51:415][186]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002784A48C600), frame # 158186
+[2020.10.13-08.25.51:415][186]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000278B4A891C0), frame # 158186
+[2020.10.13-08.25.51:415][186]LogPlayLevel: PIE: World Init took: (0.001568s)
+[2020.10.13-08.25.51:415][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013867s)
+[2020.10.13-08.25.51:451][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.10.13-08.25.51:452][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.13-08.25.51:452][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.13-08.25.51:452][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.13-08.25.51:452][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.13-08.25.51:452][186]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.13-08.25.51:452][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.13-08.25.51:452][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.13-08.25.51:452][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.13-08.25.51:453][186]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.13-08.25.51:453][186]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.13-08.25.51:457][186]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.13-08.25.51:457][186]LogAudioMixer: Display: 1: FrontRight
+[2020.10.13-08.25.51:472][186]LogAudioMixer: Display: Using Audio Device Głośniki (2- High Definition Audio Device)
+[2020.10.13-08.25.51:472][186]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.13-08.25.51:472][186]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.13-08.25.51:472][186]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.13-08.25.51:473][186]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.13-08.25.51:487][186]LogInit: FAudioDevice initialized.
+[2020.10.13-08.25.51:497][186]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.13-08.25.51:499][186]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.10.13-10.25.51
+[2020.10.13-08.25.51:500][186]LogWorld: Bringing up level for play took: 0.002054
+[2020.10.13-08.25.51:500][186]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.10.13-08.25.51:503][186]PIE: Server logged in
+[2020.10.13-08.25.51:503][186]PIE: Play in editor total start time 0,105 seconds.
+[2020.10.13-08.26.04:512][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.26.04:512][690]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.26.04:512][690]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-08.26.04:512][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.26.04:534][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.13-08.26.04:537][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.26.04:583][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.26.04:584][690]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000278B4A891C0), frame # 159690
+[2020.10.13-08.26.04:584][690]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002784A48C600), frame # 159690
+[2020.10.13-08.26.04:586][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.10.13-08.26.04:612][691]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.10.13-08.28.37:046][158]LogSlate: Took 0.001126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.13-08.29.04:789][627]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall2)
+[2020.10.13-08.29.05:576][705]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.10.13-08.29.09:264][133]LogEditorViewport: Clicking on Actor (LMB): Spawner_C (Spawner)
+[2020.10.13-08.29.18:390][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.13-08.29.19:342][284]LogEditorViewport: Clicking on Actor (LMB): Spawner_C (Spawner)
+[2020.10.13-08.29.21:630][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset" SILENT=true
+[2020.10.13-08.29.21:636][529]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/Spawner3A05BABB4C9C793E5CC41FB198102D06.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset'
+[2020.10.13-08.29.21:646][529]AssetCheck: New page: Asset Save: Spawner
+[2020.10.13-08.29.21:646][529]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawner.Spawner
+[2020.10.13-08.29.22:001][569]BlueprintLog: New page: Compile Spawner
+[2020.10.13-08.29.22:063][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.10.13-08.30.11:961][436]LogEditorViewport: Clicking on Actor (LMB): Spawner_C (Spawner)
+[2020.10.13-08.30.28:854][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.13-08.30.41:388][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.10.13-08.30.41:436][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.10.13-08.30.41:463][715]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMapCD7ABDC94944491C550CDABCA9C19F35.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.10.13-08.30.41:471][715]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.064
+[2020.10.13-08.30.41:471][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.13-08.30.41:563][715]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap_BuiltDataCFFE41464B6FBA7747B99C80E518D782.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.13-08.30.41:576][715]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.13-08.30.41:576][715]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.13-08.30.41:576][715]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.13-08.31.44:618][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Enemy" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Enemy.uasset" SILENT=true
+[2020.10.13-08.31.44:631][406]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/Enemy8A4F9B814F91A4F528CC388413E38E82.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Enemy.uasset'
+[2020.10.13-08.31.44:646][406]AssetCheck: New page: Asset Save: Enemy
+[2020.10.13-08.31.44:646][406]LogContentValidation: Display: Validating Blueprint /Game/AI/Enemy.Enemy
+[2020.10.13-08.31.44:912][435]BlueprintLog: New page: Compile Enemy
+[2020.10.13-08.31.44:970][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.10.13-08.33.39:808][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset" SILENT=true
+[2020.10.13-08.33.39:817][650]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/Spawner97EE394D4D198999A8E3B3BF0F63B969.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset'
+[2020.10.13-08.33.39:833][650]AssetCheck: New page: Asset Save: Spawner
+[2020.10.13-08.33.39:833][650]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawner.Spawner
+[2020.10.13-08.33.40:469][725]BlueprintLog: New page: Compile Spawner
+[2020.10.13-08.33.40:531][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.10.13-08.36.13:091][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_EnemyMoveTo" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset" SILENT=true
+[2020.10.13-08.36.13:096][881]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/BTT_EnemyMoveTo5FDB20A147809CB08AB011AB2A20E283.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset'
+[2020.10.13-08.36.13:108][881]AssetCheck: New page: Asset Save: BTT_EnemyMoveTo
+[2020.10.13-08.36.13:108][881]LogContentValidation: Display: Validating Blueprint /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo
+[2020.10.13-08.36.13:661][945]BlueprintLog: New page: Compile BTT_EnemyMoveTo
+[2020.10.13-08.36.13:662][945]LogBlueprint: Error: [Compiler BTT_EnemyMoveTo] The current value (0, 0, 0) of the ' Goal ' pin is invalid: 'Goal' in action 'Simple Move to Location' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.10.13-08.36.13:696][945]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.10.13-08.37.47:795][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_EnemyMoveTo" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset" SILENT=true
+[2020.10.13-08.37.47:800][990]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/BTT_EnemyMoveToF338BF8A4957DE17F6BAFC948E7264D5.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset'
+[2020.10.13-08.37.47:814][990]AssetCheck: New page: Asset Save: BTT_EnemyMoveTo
+[2020.10.13-08.37.47:814][990]LogContentValidation: Display: Validating Blueprint /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo
+[2020.10.13-08.37.50:015][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_EnemyMoveTo" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset" SILENT=true
+[2020.10.13-08.37.50:020][247]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/BTT_EnemyMoveTo21305F3D41B3A0D1FF26749C8C89A772.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset'
+[2020.10.13-08.37.50:032][247]AssetCheck: New page: Asset Save: BTT_EnemyMoveTo
+[2020.10.13-08.37.50:032][247]LogContentValidation: Display: Validating Blueprint /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo
+[2020.10.13-08.37.50:417][293]BlueprintLog: New page: Compile BTT_EnemyMoveTo
+[2020.10.13-08.37.50:452][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.10.13-08.37.50:825][335]BlueprintLog: New page: Compile BTT_EnemyMoveTo
+[2020.10.13-08.37.50:858][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.10.13-08.38.09:262][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyTree" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyTree.uasset" SILENT=true
+[2020.10.13-08.38.09:265][313]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/EnemyTree890659FB40AAC6A19D0BA7AF3CBDAC47.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyTree.uasset'
+[2020.10.13-08.38.09:275][313]AssetCheck: New page: Asset Save: EnemyTree
+[2020.10.13-08.38.09:275][313]LogContentValidation: Display: Validating BehaviorTree /Game/AI/EnemyTree.EnemyTree
+[2020.10.13-08.38.12:972][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.13-08.38.13:027][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.10.13-08.38.13:054][434]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap0E8DFD5842AC6A99B5D3B6B7AB1D71E6.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.10.13-08.38.13:063][434]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.066
+[2020.10.13-08.38.13:063][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.13-08.38.13:153][434]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap_BuiltData905C927B4EF26E9BADFE1899F91862EC.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.13-08.38.13:166][434]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.13-08.38.13:166][434]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.13-08.38.13:166][434]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.13-08.38.48:432][617]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-08.38.48:440][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-08.38.48:440][617]PIE: New page: PIE session: TopDownExampleMap (13 paź 2020, 12:38:48)
+[2020.10.13-08.38.48:440][617]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.38.48:452][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012283s)
+[2020.10.13-08.38.48:453][617]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.10.13-08.38.48:453][617]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000278D80E2E00), frame # 226617
+[2020.10.13-08.38.48:453][617]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000278472CE0C0), frame # 226617
+[2020.10.13-08.38.48:454][617]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2020.10.13-08.38.48:454][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013837s)
+[2020.10.13-08.38.48:488][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.10.13-08.38.48:490][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.13-08.38.48:490][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.13-08.38.48:490][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.13-08.38.48:490][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.13-08.38.48:490][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.13-08.38.48:490][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.13-08.38.48:490][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.13-08.38.48:490][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.13-08.38.48:490][617]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.13-08.38.48:490][617]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.13-08.38.48:494][617]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.13-08.38.48:494][617]LogAudioMixer: Display: 1: FrontRight
+[2020.10.13-08.38.48:512][617]LogAudioMixer: Display: Using Audio Device Głośniki (2- High Definition Audio Device)
+[2020.10.13-08.38.48:512][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.13-08.38.48:512][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.13-08.38.48:512][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.13-08.38.48:513][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.13-08.38.48:526][617]LogInit: FAudioDevice initialized.
+[2020.10.13-08.38.48:537][617]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.13-08.38.48:540][617]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.10.13-10.38.48
+[2020.10.13-08.38.48:540][617]LogWorld: Bringing up level for play took: 0.001983
+[2020.10.13-08.38.48:540][617]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.10.13-08.38.48:543][617]PIE: Server logged in
+[2020.10.13-08.38.48:544][617]PIE: Play in editor total start time 0,107 seconds.
+[2020.10.13-08.38.57:296][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.38.57:297][619]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.38.57:297][619]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-08.38.57:297][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.38.57:310][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.13-08.38.57:313][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.38.57:360][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.38.57:361][619]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000278472CE0C0), frame # 227619
+[2020.10.13-08.38.57:361][619]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000278D80E2E00), frame # 227619
+[2020.10.13-08.38.57:364][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.10.13-08.38.57:386][620]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.10.13-08.40.01:815][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset" SILENT=true
+[2020.10.13-08.40.01:822][602]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/SpawnerDD0A0AFD407DD47883D3B99C4EC8B87E.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset'
+[2020.10.13-08.40.01:835][602]AssetCheck: New page: Asset Save: Spawner
+[2020.10.13-08.40.01:835][602]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawner.Spawner
+[2020.10.13-08.40.02:092][631]BlueprintLog: New page: Compile Spawner
+[2020.10.13-08.40.02:146][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.10.13-08.40.05:483][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_EnemyMoveTo" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset" SILENT=true
+[2020.10.13-08.40.05:488][ 10]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/BTT_EnemyMoveTo46C161DD49110E644B21AC833F60CE1F.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/BTT_EnemyMoveTo.uasset'
+[2020.10.13-08.40.05:500][ 10]AssetCheck: New page: Asset Save: BTT_EnemyMoveTo
+[2020.10.13-08.40.05:500][ 10]LogContentValidation: Display: Validating Blueprint /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo
+[2020.10.13-08.40.07:668][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyController" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyController.uasset" SILENT=true
+[2020.10.13-08.40.07:674][243]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/EnemyController54684CCF46CF34A1D8CC76AA95E7CB2F.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyController.uasset'
+[2020.10.13-08.40.07:684][243]AssetCheck: New page: Asset Save: EnemyController
+[2020.10.13-08.40.07:684][243]LogContentValidation: Display: Validating Blueprint /Game/AI/EnemyController.EnemyController
+[2020.10.13-08.40.08:429][331]BlueprintLog: New page: Compile EnemyController
+[2020.10.13-08.40.08:478][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.10.13-08.40.09:305][418]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-08.40.09:313][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-08.40.09:313][418]PIE: New page: PIE session: TopDownExampleMap (13 paź 2020, 12:40:09)
+[2020.10.13-08.40.09:313][418]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.40.09:326][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012689s)
+[2020.10.13-08.40.09:327][418]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.10.13-08.40.09:327][418]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027887208E00), frame # 233418
+[2020.10.13-08.40.09:327][418]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000278B4A89A80), frame # 233418
+[2020.10.13-08.40.09:328][418]LogPlayLevel: PIE: World Init took: (0.001797s)
+[2020.10.13-08.40.09:328][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014679s)
+[2020.10.13-08.40.09:365][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.13-08.40.09:366][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.13-08.40.09:366][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.13-08.40.09:366][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.13-08.40.09:366][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.13-08.40.09:366][418]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.13-08.40.09:366][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.13-08.40.09:366][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.13-08.40.09:366][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.13-08.40.09:366][418]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.13-08.40.09:366][418]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.13-08.40.09:370][418]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.13-08.40.09:370][418]LogAudioMixer: Display: 1: FrontRight
+[2020.10.13-08.40.09:386][418]LogAudioMixer: Display: Using Audio Device Głośniki (2- High Definition Audio Device)
+[2020.10.13-08.40.09:386][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.13-08.40.09:386][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.13-08.40.09:386][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.13-08.40.09:387][418]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.13-08.40.09:400][418]LogInit: FAudioDevice initialized.
+[2020.10.13-08.40.09:449][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.40.09:449][418]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.13-08.40.09:451][418]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.10.13-10.40.09
+[2020.10.13-08.40.09:452][418]LogWorld: Bringing up level for play took: 0.002191
+[2020.10.13-08.40.09:452][418]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.10.13-08.40.09:456][418]PIE: Server logged in
+[2020.10.13-08.40.09:456][418]PIE: Play in editor total start time 0,147 seconds.
+[2020.10.13-08.40.09:543][419]LogRenderer: Reallocating scene render targets to support 1280x972 Format 10 NumSamples 1 (Frame:1).
+[2020.10.13-08.40.12:366][744]LogSlate: Window 'Tower_Command Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.13-08.40.12:373][744]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.40.12:408][744]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-08.40.12:408][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.40.12:425][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.13-08.40.12:429][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.40.12:476][744]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000278B4A89A80), frame # 233744
+[2020.10.13-08.40.12:476][744]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027887208E00), frame # 233744
+[2020.10.13-08.40.12:479][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.10.13-08.40.12:491][745]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.10.13-08.40.14:476][958]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-08.40.14:484][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-08.40.14:484][958]PIE: New page: PIE session: TopDownExampleMap (13 paź 2020, 12:40:14)
+[2020.10.13-08.40.14:484][958]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.40.14:496][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011886s)
+[2020.10.13-08.40.14:497][958]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.10.13-08.40.14:498][958]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000278D065FE00), frame # 233958
+[2020.10.13-08.40.14:498][958]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000278DC82F380), frame # 233958
+[2020.10.13-08.40.14:498][958]LogPlayLevel: PIE: World Init took: (0.002225s)
+[2020.10.13-08.40.14:498][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014279s)
+[2020.10.13-08.40.14:530][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.10.13-08.40.14:532][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.13-08.40.14:532][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.13-08.40.14:532][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.13-08.40.14:532][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.13-08.40.14:532][958]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.13-08.40.14:532][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.13-08.40.14:532][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.13-08.40.14:532][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.13-08.40.14:533][958]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.13-08.40.14:533][958]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.13-08.40.14:536][958]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.13-08.40.14:536][958]LogAudioMixer: Display: 1: FrontRight
+[2020.10.13-08.40.14:551][958]LogAudioMixer: Display: Using Audio Device Głośniki (2- High Definition Audio Device)
+[2020.10.13-08.40.14:551][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.13-08.40.14:551][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.13-08.40.14:551][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.13-08.40.14:551][958]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.13-08.40.14:566][958]LogInit: FAudioDevice initialized.
+[2020.10.13-08.40.14:575][958]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.13-08.40.14:577][958]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.10.13-10.40.14
+[2020.10.13-08.40.14:578][958]LogWorld: Bringing up level for play took: 0.001826
+[2020.10.13-08.40.14:578][958]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.10.13-08.40.14:580][958]PIE: Server logged in
+[2020.10.13-08.40.14:582][958]PIE: Play in editor total start time 0,1 seconds.
+[2020.10.13-08.40.22:244][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.40.22:244][832]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.40.22:244][832]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-08.40.22:245][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.40.22:257][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.13-08.40.22:261][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.40.22:307][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.40.22:308][832]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000278DC82F380), frame # 234832
+[2020.10.13-08.40.22:308][832]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000278D065FE00), frame # 234832
+[2020.10.13-08.40.22:310][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.10.13-08.40.22:335][833]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.10.13-08.40.29:531][945]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-08.40.29:539][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-08.40.29:539][945]PIE: New page: PIE session: TopDownExampleMap (13 paź 2020, 12:40:29)
+[2020.10.13-08.40.29:539][945]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.40.29:552][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012942s)
+[2020.10.13-08.40.29:554][945]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.10.13-08.40.29:554][945]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000278C19E8800), frame # 234945
+[2020.10.13-08.40.29:554][945]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000278D75907C0), frame # 234945
+[2020.10.13-08.40.29:554][945]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2020.10.13-08.40.29:554][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014694s)
+[2020.10.13-08.40.29:591][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.13-08.40.29:592][945]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.13-08.40.29:592][945]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.13-08.40.29:592][945]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.13-08.40.29:592][945]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.13-08.40.29:592][945]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.13-08.40.29:592][945]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.13-08.40.29:592][945]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.13-08.40.29:592][945]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.13-08.40.29:592][945]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.13-08.40.29:592][945]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.13-08.40.29:596][945]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.13-08.40.29:596][945]LogAudioMixer: Display: 1: FrontRight
+[2020.10.13-08.40.29:612][945]LogAudioMixer: Display: Using Audio Device Głośniki (2- High Definition Audio Device)
+[2020.10.13-08.40.29:612][945]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.13-08.40.29:612][945]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.13-08.40.29:612][945]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.13-08.40.29:612][945]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.13-08.40.29:626][945]LogInit: FAudioDevice initialized.
+[2020.10.13-08.40.29:632][945]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.13-08.40.29:634][945]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.10.13-10.40.29
+[2020.10.13-08.40.29:635][945]LogWorld: Bringing up level for play took: 0.001955
+[2020.10.13-08.40.29:635][945]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.10.13-08.40.29:638][945]PIE: Server logged in
+[2020.10.13-08.40.29:639][945]PIE: Play in editor total start time 0,103 seconds.
+[2020.10.13-08.40.37:422][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.40.37:422][868]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.40.37:422][868]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-08.40.37:422][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.40.37:436][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.13-08.40.37:439][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.40.37:486][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.40.37:487][868]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000278D75907C0), frame # 235868
+[2020.10.13-08.40.37:487][868]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000278C19E8800), frame # 235868
+[2020.10.13-08.40.37:490][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.10.13-08.40.37:512][869]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.10.13-08.41.21:489][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset" SILENT=true
+[2020.10.13-08.41.21:496][261]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/Spawner12E56CD5423BBA61DB75D1A01B3D6A9C.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/Spawner.uasset'
+[2020.10.13-08.41.21:504][261]AssetCheck: New page: Asset Save: Spawner
+[2020.10.13-08.41.21:505][261]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawner.Spawner
+[2020.10.13-08.41.21:928][310]BlueprintLog: New page: Compile Spawner
+[2020.10.13-08.41.21:986][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.10.13-08.41.24:307][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyController" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyController.uasset" SILENT=true
+[2020.10.13-08.41.24:312][567]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/EnemyControllerE346CC19422132CB0AB1BC815BB44678.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/AI/EnemyController.uasset'
+[2020.10.13-08.41.24:321][567]AssetCheck: New page: Asset Save: EnemyController
+[2020.10.13-08.41.24:321][567]LogContentValidation: Display: Validating Blueprint /Game/AI/EnemyController.EnemyController
+[2020.10.13-08.41.24:670][608]BlueprintLog: New page: Compile EnemyController
+[2020.10.13-08.41.24:719][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.10.13-08.41.35:968][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.13-08.41.35:992][885]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap3278D0B641680F4C8AAFB29D65160914.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.10.13-08.41.36:001][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.13-08.41.36:091][885]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap_BuiltDataD1CEC85B4AC6624A2C21E69BA8041DEC.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.13-08.41.36:107][885]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.13-08.41.36:108][885]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.13-08.41.36:108][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.13-08.41.36:731][956]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-08.41.36:738][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-08.41.36:738][956]PIE: New page: PIE session: TopDownExampleMap (13 paź 2020, 12:41:36)
+[2020.10.13-08.41.36:738][956]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.41.36:750][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012053s)
+[2020.10.13-08.41.36:752][956]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.10.13-08.41.36:752][956]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000278C2815A00), frame # 241956
+[2020.10.13-08.41.36:752][956]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000278C25B42C0), frame # 241956
+[2020.10.13-08.41.36:752][956]LogPlayLevel: PIE: World Init took: (0.001830s)
+[2020.10.13-08.41.36:752][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014048s)
+[2020.10.13-08.41.36:786][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.10.13-08.41.36:787][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.13-08.41.36:787][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.13-08.41.36:787][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.13-08.41.36:787][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.13-08.41.36:787][956]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.13-08.41.36:787][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.13-08.41.36:787][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.13-08.41.36:787][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.13-08.41.36:787][956]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.13-08.41.36:787][956]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.13-08.41.36:791][956]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.13-08.41.36:791][956]LogAudioMixer: Display: 1: FrontRight
+[2020.10.13-08.41.36:807][956]LogAudioMixer: Display: Using Audio Device Głośniki (2- High Definition Audio Device)
+[2020.10.13-08.41.36:807][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.13-08.41.36:807][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.13-08.41.36:807][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.13-08.41.36:808][956]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.13-08.41.36:821][956]LogInit: FAudioDevice initialized.
+[2020.10.13-08.41.36:831][956]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.13-08.41.36:833][956]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.10.13-10.41.36
+[2020.10.13-08.41.36:834][956]LogWorld: Bringing up level for play took: 0.001889
+[2020.10.13-08.41.36:834][956]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.10.13-08.41.36:837][956]PIE: Server logged in
+[2020.10.13-08.41.36:838][956]PIE: Play in editor total start time 0,103 seconds.
+[2020.10.13-08.41.36:839][956]LogScript: Warning: Accessed None trying to read property Spawner
+	BTT_EnemyMoveTo_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.EnemyController_C_0.BTComponent.BTT_EnemyMoveTo_C_0
+	Function /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo_C:ExecuteUbergraph_BTT_EnemyMoveTo:0090
+[2020.10.13-08.41.36:839][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Spawner". Blueprint:  BTT_EnemyMoveTo Function:  Execute Ubergraph BTT Enemy Move To Graph:  EventGraph Node:  Simple Move to Location
+[2020.10.13-08.41.36:839][956]LogScript: Warning: Accessed None trying to read property Spawner
+	BTT_EnemyMoveTo_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.EnemyController_C_0.BTComponent.BTT_EnemyMoveTo_C_0
+	Function /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo_C:ExecuteUbergraph_BTT_EnemyMoveTo:00E1
+[2020.10.13-08.41.36:839][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Spawner". Blueprint:  BTT_EnemyMoveTo Function:  Execute Ubergraph BTT Enemy Move To Graph:  EventGraph Node:  Simple Move to Location
+[2020.10.13-08.41.44:276][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.41.44:276][741]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.41.44:276][741]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-08.41.44:277][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.41.44:294][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.13-08.41.44:297][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.41.44:341][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.41.44:341][741]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000278C25B42C0), frame # 242741
+[2020.10.13-08.41.44:341][741]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000278C2815A00), frame # 242741
+[2020.10.13-08.41.44:344][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.10.13-08.41.44:454][742]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.10.13-08.41.50:065][382]LogSlate: Window 'Message Log' being destroyed
+[2020.10.13-08.41.50:069][382]LogSlate: Window 'Message Log' being destroyed
+[2020.10.13-08.53.10:853][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.13-08.53.18:098][483]Cmd: EDIT COPY
+[2020.10.13-08.53.18:414][520]Cmd: EDIT PASTE
+[2020.10.13-08.54.05:966][ 96]LogEditorViewport: Clicking on Actor (LMB): Spawner_C (Spawner)
+[2020.10.13-08.54.17:854][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.10.13-08.54.17:905][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.13-08.54.17:934][500]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMapA2A5C980435DBC9A2B0D4B9A8D7D0F1A.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.10.13-08.54.17:942][500]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.065
+[2020.10.13-08.54.17:942][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.13-08.54.18:033][500]LogSavePackage: Moving '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Saved/TopDownExampleMap_BuiltData843CCAFE460E46B3DC2D6DB3FA79178A.tmp' to '../../../../../PAM2/TOWER_COMMAND/Tower_Command/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.13-08.54.18:045][500]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.13-08.54.18:045][500]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.13-08.54.18:045][500]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.13-08.54.19:458][659]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-08.54.19:465][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-08.54.19:466][659]PIE: New page: PIE session: TopDownExampleMap (13 paź 2020, 12:54:19)
+[2020.10.13-08.54.19:466][659]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.54.19:478][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012474s)
+[2020.10.13-08.54.19:479][659]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.10.13-08.54.19:480][659]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000278380EB400), frame # 267659
+[2020.10.13-08.54.19:480][659]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027848841E40), frame # 267659
+[2020.10.13-08.54.19:480][659]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2020.10.13-08.54.19:480][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014214s)
+[2020.10.13-08.54.19:515][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.10.13-08.54.19:517][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.13-08.54.19:517][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.13-08.54.19:517][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.13-08.54.19:517][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.13-08.54.19:517][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.13-08.54.19:517][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.13-08.54.19:517][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.13-08.54.19:517][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.13-08.54.19:517][659]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.13-08.54.19:517][659]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.13-08.54.19:522][659]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.13-08.54.19:522][659]LogAudioMixer: Display: 1: FrontRight
+[2020.10.13-08.54.19:539][659]LogAudioMixer: Display: Using Audio Device Głośniki (2- High Definition Audio Device)
+[2020.10.13-08.54.19:539][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.13-08.54.19:539][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.13-08.54.19:539][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.13-08.54.19:541][659]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.13-08.54.19:553][659]LogInit: FAudioDevice initialized.
+[2020.10.13-08.54.19:564][659]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.13-08.54.19:567][659]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.10.13-10.54.19
+[2020.10.13-08.54.19:567][659]LogWorld: Bringing up level for play took: 0.001924
+[2020.10.13-08.54.19:568][659]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.10.13-08.54.19:570][659]PIE: Server logged in
+[2020.10.13-08.54.19:571][659]PIE: Play in editor total start time 0,109 seconds.
+[2020.10.13-08.54.19:572][659]LogScript: Warning: Accessed None trying to read property Spawner
+	BTT_EnemyMoveTo_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.EnemyController_C_0.BTComponent.BTT_EnemyMoveTo_C_0
+	Function /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo_C:ExecuteUbergraph_BTT_EnemyMoveTo:0090
+[2020.10.13-08.54.19:572][659]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Spawner". Blueprint:  BTT_EnemyMoveTo Function:  Execute Ubergraph BTT Enemy Move To Graph:  EventGraph Node:  Simple Move to Location
+[2020.10.13-08.54.19:572][659]LogScript: Warning: Accessed None trying to read property Spawner
+	BTT_EnemyMoveTo_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.EnemyController_C_0.BTComponent.BTT_EnemyMoveTo_C_0
+	Function /Game/AI/BTT_EnemyMoveTo.BTT_EnemyMoveTo_C:ExecuteUbergraph_BTT_EnemyMoveTo:00E1
+[2020.10.13-08.54.19:572][659]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Spawner". Blueprint:  BTT_EnemyMoveTo Function:  Execute Ubergraph BTT Enemy Move To Graph:  EventGraph Node:  Simple Move to Location
+[2020.10.13-08.54.31:911][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.54.31:911][ 86]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.10.13-08.54.31:911][ 86]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-08.54.31:911][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.54.31:926][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.13-08.54.31:929][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-08.54.31:959][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-08.54.31:978][ 86]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027848841E40), frame # 269086
+[2020.10.13-08.54.31:978][ 86]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000278380EB400), frame # 269086
+[2020.10.13-08.54.31:980][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.13-08.54.32:078][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.10.13-08.54.43:772][447]LogSlate: Window 'Message Log' being destroyed
+[2020.10.13-08.54.43:776][447]LogSlate: Window 'Message Log' being destroyed
