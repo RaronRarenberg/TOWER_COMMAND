@@ -1,0 +1,1 @@
+../../../Tower_Command/Tower_Command.uproject  /Game/TopDownBP/Maps/TopDownExampleMap -Messaging -SessionId=32D175F44A26DBCBDC03CFBA655F28A6 -SessionOwner="Raron" -SessionName="Launch On Device" -iterative

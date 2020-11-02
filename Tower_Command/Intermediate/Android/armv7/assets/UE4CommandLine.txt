@@ -1,0 +1,1 @@
+../../../Tower_Command/Tower_Command.uproject   -Messaging -SessionId=9FA1FF5C4B4E41E66DDEDF993EFA42F3 -SessionOwner="Raron" -SessionName="SM_A202F (R58MB5D54BL)"    -filehostip=192.168.1.10+127.0.0.1
